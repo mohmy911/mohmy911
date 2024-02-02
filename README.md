@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **React Native , Expo**
 
-<h3 align="left">Connect with me:eininomohmy1102@gmail.com</h3>
+<h3 align="left">Connect with me : eininomohmy1102@gmail.com</h3>
 <p align="left">
 </p>
 
